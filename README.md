@@ -1,5 +1,4 @@
-# Self-Generated In-Context Learning: Leveraging Auto-regressive
-Language Models as a Demonstration Generator
+# Self-Generated In-Context Learning: Leveraging Auto-regressive Language Models as a Demonstration Generator
 
 ## How to Install
 
